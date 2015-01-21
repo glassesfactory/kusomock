@@ -1,0 +1,7 @@
+[general]
+public_path = "public"
+template_path = "templates"
+
+[database]
+hostname = "localhost"
+db_name = "kusomock_test"
