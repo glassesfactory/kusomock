@@ -1,5 +1,6 @@
 [general]
 public_path = "public"
+public_url = "assets"
 template_path = "templates"
 
 [database]
